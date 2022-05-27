@@ -1,3 +1,2 @@
 - Hi, I’m @emilyoprog
-- I’m interested in CPP Coding & LaTex Documents Writing;
-- I’m currently learning CPP, Python :))
+- I’m currently learning CPP, Python, HTML :))
