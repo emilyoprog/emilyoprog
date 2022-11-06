@@ -1,2 +1,2 @@
 - Hi, I’m @emilyoprog
-- I’m currently learning CPP, Python, HTML :))
+- I’m currently learning CPP, Java, Python, HTML :))
